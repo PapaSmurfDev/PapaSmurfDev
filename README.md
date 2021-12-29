@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapaSmurfDev
-- 👀 I’m interested in ... ComputerCraft, AI, Interesting Innovative Apps
-- 🌱 I’m currently learning ... Full Stack/Data Science/Neural Network/Latest Tech Demos
+- 👀 I’m interested in ... ComputerCraft/AI/Interesting Innovative Apps/Full Stack Dev/Block Chain
+- 🌱 I’m currently learning ... Full Stack Dev/Data Science/Machine Learning/Neural Network/Crypto Smart Contracts/Latest Tech Demos
 - 💞️ I’m looking to collaborate on ... ComputerCraft
 - 📫 How to reach me ... Here or Discord
 
